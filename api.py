@@ -92,7 +92,7 @@ def home():
                  background: linear-gradient(135deg, #e0b0ff, #b19cd9, #e0b0ff);
             }
             header {
-                background-color: #333;
+                background-color: rgba(186, 146, 250, 0.7);
                 color: #fff;
                 padding: 20px;
                 text-align: center;
@@ -165,7 +165,7 @@ def home():
                        
 
             footer {
-                background-color: #333;
+                background-color: rgba(186, 146, 250, 0.7);
                 color: #fff;
                 text-align: center;
                 padding: 10px;
@@ -185,9 +185,9 @@ def home():
             <p>Você já imaginou um mundo onde você pode controlar o cursor do seu mouse apenas com o movimento dos seus olhos? Este é o objetivo do nosso projeto inovador, que utiliza a poderosa biblioteca MediaPipe, combinada com OpenCV e PyAutoGUI, para permitir que você navegue pela internet e interaja com seu computador sem precisar usar as mãos..</p>
             
             <div class="image-container">
-                <img src="../static/images/logo.png" alt="">
+                <img src="../static/images/cadeirante.png" alt="">
                 <img src="../static/images/logovetor.png" alt="">
-                <img src="../static/images/logo.png" alt="">
+                <img src="../static/images/sic logo.png" alt="">
              
             </div>
 
